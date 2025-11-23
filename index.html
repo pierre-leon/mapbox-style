@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapbox Style Compare</title>
+  <link
+    href="https://api.mapbox.com/mapbox-gl-js/v3.17.0-beta.1/mapbox-gl.css"
+    rel="stylesheet"
+  />
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --title-bg: rgba(17, 24, 39, 0.72);
+      --title-color: #e5e7eb;
+      --accent: #38bdf8;
+      --shadow: 0 12px 30px rgba(0, 0, 0, 0.35);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, -apple-system, sans-serif;
+      background: radial-gradient(circle at 20% 20%, rgba(56, 189, 248, 0.08), transparent 30%),
+        radial-gradient(circle at 80% 0%, rgba(94, 234, 212, 0.08), transparent 35%),
+        var(--bg);
+      color: var(--title-color);
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    .grid {
+      width: min(1200px, 100%);
+      height: min(900px, 90vh);
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-rows: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .panel {
+      position: relative;
+      border-radius: 16px;
+      overflow: hidden;
+      background: linear-gradient(145deg, rgba(17, 24, 39, 0.9), rgba(31, 41, 55, 0.9));
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(148, 163, 184, 0.1);
+      isolation: isolate;
+    }
+
+    .panel::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 30% 30%, rgba(56, 189, 248, 0.1), transparent 35%),
+        radial-gradient(circle at 80% 0%, rgba(94, 234, 212, 0.08), transparent 30%);
+      pointer-events: none;
+      mix-blend-mode: screen;
+      opacity: 0.6;
+    }
+
+    .map {
+      position: absolute;
+      inset: 0;
+    }
+
+    .title {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      padding: 8px 12px;
+      border-radius: 12px;
+      background: var(--title-bg);
+      color: var(--title-color);
+      font-size: 13px;
+      letter-spacing: 0.01em;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      z-index: 2;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      border: 1px solid rgba(148, 163, 184, 0.12);
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      background: var(--accent);
+      box-shadow: 0 0 0 4px rgba(56, 189, 248, 0.18);
+    }
+
+    @media (max-width: 700px) {
+      body {
+        padding: 16px;
+      }
+
+      .grid {
+        width: 100%;
+        height: auto;
+        grid-template-columns: 1fr;
+        grid-template-rows: none;
+        grid-auto-rows: 320px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="grid" id="grid"></div>
+
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.17.0-beta.1/mapbox-gl.js"></script>
+  <script>
+    const MAPBOX_TOKEN = "pk.eyJ1IjoicGllcnJlbGVvbiIsImEiOiJjbWljOTliYXgwZG1hMndxejhwdzBtc2t3In0.kP7xLJexP1jgcTjJzEiGzw";
+
+    mapboxgl.accessToken = MAPBOX_TOKEN;
+    
+    const styles = [
+      { title: "Minor change", url: "mapbox://styles/pierreleon/cmic84vw500fj01pf3t4y7u3l" },
+      { title: "Faded", url: "mapbox://styles/pierreleon/cmic8tdak00g201r40it35qh2" },
+      { title: "Standard", url: "mapbox://styles/mapbox/standard" },
+      { title: "Mono", url: "mapbox://styles/pierreleon/cmic8ui9j00g301r4ayvu4go4" },
+    ];
+
+    const grid = document.getElementById("grid");
+    const maps = [];
+    let isSyncing = false;
+
+    function createPanel(style, index) {
+      const panel = document.createElement("div");
+      panel.className = "panel";
+
+      const mapEl = document.createElement("div");
+      mapEl.className = "map";
+      mapEl.id = `map-${index}`;
+
+      const title = document.createElement("div");
+      title.className = "title";
+      title.innerHTML = `<span class="dot"></span><span>${style.title}</span>`;
+
+      panel.appendChild(mapEl);
+      panel.appendChild(title);
+      grid.appendChild(panel);
+    }
+
+    function syncFrom(source) {
+      if (isSyncing) return;
+      isSyncing = true;
+      const center = source.getCenter();
+      const zoom = source.getZoom();
+      const bearing = source.getBearing();
+      const pitch = source.getPitch();
+
+      maps.forEach((m) => {
+        if (m === source) return;
+        m.jumpTo({ center, zoom, bearing, pitch });
+      });
+      isSyncing = false;
+    }
+
+    styles.forEach((style, idx) => createPanel(style, idx));
+
+    styles.forEach((style, idx) => {
+      const map = new mapboxgl.Map({
+        container: `map-${idx}`,
+        style: style.url,
+        center: [-74, 40.74],
+        zoom: 16,
+        cooperativeGestures: true,
+      });
+
+      map.on("load", () => {
+        if (idx === 0) syncFrom(map);
+      });
+
+      map.on("error", (e) => {
+        console.error(`Map error (${style.title}):`, e?.error || e);
+      });
+
+      map.on("move", () => syncFrom(map));
+      maps.push(map);
+    });
+  </script>
+</body>
+</html>
