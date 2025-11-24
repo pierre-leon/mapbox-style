@@ -1,0 +1,4340 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97223507226336,
+            40.74329993329373,
+            0
+          ],
+          [
+            -73.97328526289078,
+            40.7437405609071,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97225137127381,
+            40.74327746144198,
+            0
+          ],
+          [
+            -73.9733015620088,
+            40.74371808905707,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97364794774393,
+            40.74389785077799,
+            0
+          ],
+          [
+            -73.97498920273623,
+            40.74445554125455,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97398181227673,
+            40.74400567591934,
+            0
+          ],
+          [
+            -73.97500538945303,
+            40.74443302238716,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97366255468754,
+            40.74387179834731,
+            0
+          ],
+          [
+            -73.97398071562378,
+            40.7440031819333,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97528594900515,
+            40.74458766752936,
+            0
+          ],
+          [
+            -73.97566044269055,
+            40.7447445861767,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97530223207424,
+            40.74456518886682,
+            0
+          ],
+          [
+            -73.97567672579791,
+            40.74472210751478,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9760176705245,
+            40.7448960178825,
+            0
+          ],
+          [
+            -73.97718342773037,
+            40.74538418696152,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97650483598896,
+            40.74506922073714,
+            0
+          ],
+          [
+            -73.97719970334755,
+            40.74536170509924,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9760319677946,
+            40.74487049279917,
+            0
+          ],
+          [
+            -73.97649935032028,
+            40.74506672630858,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97742205459875,
+            40.74548193966978,
+            0
+          ],
+          [
+            -73.97789195586506,
+            40.74568072617255,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97743845759976,
+            40.7454595114129,
+            0
+          ],
+          [
+            -73.97790835891493,
+            40.74565829791645,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9782502122684,
+            40.74584691166624,
+            0
+          ],
+          [
+            -73.97938560023107,
+            40.74632547777899,
+            0
+          ],
+          [
+            -73.97953896006965,
+            40.74637646213579,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97826656961405,
+            40.74582446409424,
+            0
+          ],
+          [
+            -73.97939911610423,
+            40.74630196195528,
+            0
+          ],
+          [
+            -73.97955247595314,
+            40.74635294631227,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97984362128688,
+            40.7464962442622,
+            0
+          ],
+          [
+            -73.98108579883623,
+            40.74701527548775,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97985986908053,
+            40.74647375065261,
+            0
+          ],
+          [
+            -73.98112547458348,
+            40.74700339122237,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98198122951085,
+            40.74739357495351,
+            0
+          ],
+          [
+            -73.98236639383383,
+            40.74755934545653,
+            0
+          ],
+          [
+            -73.98261752036053,
+            40.74768872479304,
+            0
+          ],
+          [
+            -73.98276486653675,
+            40.74775177949405,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9815432896483,
+            40.74721453954264,
+            0
+          ],
+          [
+            -73.98195924783055,
+            40.74738354539676,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98196850015358,
+            40.74736348539106,
+            0
+          ],
+          [
+            -73.9823853194742,
+            40.74753809719583,
+            0
+          ],
+          [
+            -73.98263406874334,
+            40.74766635817065,
+            0
+          ],
+          [
+            -73.98278141493519,
+            40.74772941287189,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98155923878129,
+            40.74719387910079,
+            0
+          ],
+          [
+            -73.9819641110963,
+            40.74736348513346,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98306686677789,
+            40.74787936656261,
+            0
+          ],
+          [
+            -73.98434245478727,
+            40.74841746010301,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98308323527282,
+            40.74785692348978,
+            0
+          ],
+          [
+            -73.98435882341413,
+            40.74839501703229,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9846973782062,
+            40.74856451558719,
+            0
+          ],
+          [
+            -73.98755953425007,
+            40.74977021976178,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98471372971278,
+            40.74854206528485,
+            0
+          ],
+          [
+            -73.987575886052,
+            40.74974776946415,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98808595720115,
+            40.7499941608384,
+            0
+          ],
+          [
+            -73.99038730680417,
+            40.75096456737072,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9881023215368,
+            40.74997171580097,
+            0
+          ],
+          [
+            -73.99040367137772,
+            40.75094212233706,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99075190643603,
+            40.75111645509066,
+            0
+          ],
+          [
+            -73.99184118501255,
+            40.75158056265413,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99076840139563,
+            40.75109406530755,
+            0
+          ],
+          [
+            -73.99185768008685,
+            40.75155817287281,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99196849349745,
+            40.75163134330309,
+            0
+          ],
+          [
+            -73.99321884151487,
+            40.75215795797077,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99198484581197,
+            40.75160889303532,
+            0
+          ],
+          [
+            -73.99328204238556,
+            40.75215363390809,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99361985144712,
+            40.75230063698537,
+            0
+          ],
+          [
+            -73.9940833674252,
+            40.75249489112306,
+            0
+          ],
+          [
+            -73.99449763180566,
+            40.75266913195212,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99363614003013,
+            40.75227815987508,
+            0
+          ],
+          [
+            -73.99409970119093,
+            40.75247243296337,
+            0
+          ],
+          [
+            -73.99451396561402,
+            40.7526466737931,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99460600009247,
+            40.75271163438845,
+            0
+          ],
+          [
+            -73.99520281925965,
+            40.75296636898004,
+            0
+          ],
+          [
+            -73.99538885094074,
+            40.75305420267804,
+            0
+          ],
+          [
+            -73.99549863776792,
+            40.7531079216633,
+            0
+          ],
+          [
+            -73.99561475624343,
+            40.7531608178319,
+            0
+          ],
+          [
+            -73.99608574109914,
+            40.75336549956347,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99462251780541,
+            40.75268925414631,
+            0
+          ],
+          [
+            -73.99522062049219,
+            40.75294456524651,
+            0
+          ],
+          [
+            -73.99540711193504,
+            40.75303261992936,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99541002237078,
+            40.75303593315938,
+            0
+          ],
+          [
+            -73.99561962779853,
+            40.75313401219564,
+            0
+          ],
+          [
+            -73.99613212004779,
+            40.75335094585341,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9964480141505,
+            40.75350567893078,
+            0
+          ],
+          [
+            -73.99737984591674,
+            40.7538942141095,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99646423964622,
+            40.75348317533057,
+            0
+          ],
+          [
+            -73.99739607150691,
+            40.75387171051081,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99773955448093,
+            40.75405037440999,
+            0
+          ],
+          [
+            -73.99818775415481,
+            40.75424598477289,
+            0
+          ],
+          [
+            -73.9985474843037,
+            40.75439447278134,
+            0
+          ],
+          [
+            -73.99891572970205,
+            40.75454255450074,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99775459642666,
+            40.75402115596507,
+            0
+          ],
+          [
+            -73.99820114788473,
+            40.75421501626996,
+            0
+          ],
+          [
+            -73.99856895768409,
+            40.75436239016462,
+            0
+          ],
+          [
+            -73.99893145575138,
+            40.75451984583829,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99929317470458,
+            40.75470325406499,
+            0
+          ],
+          [
+            -74.00038297455366,
+            40.75516345899523,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99930955934815,
+            40.75468081712788,
+            0
+          ],
+          [
+            -74.0003993593102,
+            40.75514102205993,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00058220664785,
+            40.75524629845042,
+            0
+          ],
+          [
+            -74.00101494163269,
+            40.75542860030809,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00059856897032,
+            40.75522385202404,
+            0
+          ],
+          [
+            -74.00180103840819,
+            40.7557248414284,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00469301061318,
+            40.75687615424918,
+            0
+          ],
+          [
+            -74.00221973980531,
+            40.75583860238007,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00187054000828,
+            40.75568623786163,
+            0
+          ],
+          [
+            -74.0006764358435,
+            40.75518476473961,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00133836173214,
+            40.75549480373233,
+            0
+          ],
+          [
+            -74.00066012000717,
+            40.75520723070297,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00185198728754,
+            40.75571088050894,
+            0
+          ],
+          [
+            -74.00134165455238,
+            40.75549812850463,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00044025511995,
+            40.75508949168051,
+            0
+          ],
+          [
+            -73.99938456720425,
+            40.75463877120191,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00042373261597,
+            40.7551118701217,
+            0
+          ],
+          [
+            -73.99936804481185,
+            40.75466114964487,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99901763496707,
+            40.75448588782743,
+            0
+          ],
+          [
+            -73.99850287346372,
+            40.75427649908273,
+            0
+          ],
+          [
+            -73.99786055704683,
+            40.75400395332607,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99869373579233,
+            40.7543831115446,
+            0
+          ],
+          [
+            -73.99784411245794,
+            40.75402636482043,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99900212031544,
+            40.75451359623003,
+            0
+          ],
+          [
+            -73.99869483391758,
+            40.75438809914323,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99753537653518,
+            40.75385854858766,
+            0
+          ],
+          [
+            -73.99653425409835,
+            40.75344331677073,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99751921658688,
+            40.75388107948292,
+            0
+          ],
+          [
+            -73.99651809425059,
+            40.75346584766764,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99615911641246,
+            40.75329667588144,
+            0
+          ],
+          [
+            -73.9957056929329,
+            40.75310448538958,
+            0
+          ],
+          [
+            -73.99524389662255,
+            40.7528834303885,
+            0
+          ],
+          [
+            -73.99472012794432,
+            40.75266214911468,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99614268568696,
+            40.75331909318404,
+            0
+          ],
+          [
+            -73.99568771475792,
+            40.75312620502358,
+            0
+          ],
+          [
+            -73.9952275069759,
+            40.75290586503301,
+            0
+          ],
+          [
+            -73.994703738352,
+            40.75268458376006,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99461758330665,
+            40.75262178705861,
+            0
+          ],
+          [
+            -73.99370730439192,
+            40.75223179627807,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99460101824002,
+            40.7526441470443,
+            0
+          ],
+          [
+            -73.99369073942208,
+            40.75225415626527,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99331112081346,
+            40.75209221986638,
+            0
+          ],
+          [
+            -73.9920237087533,
+            40.75155402207953,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99284062306896,
+            40.75192526732163,
+            0
+          ],
+          [
+            -73.99200745345081,
+            40.75157651304917,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99330371502116,
+            40.75212475809921,
+            0
+          ],
+          [
+            -73.99284172071313,
+            40.75193025497374,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9919520468104,
+            40.75152386069441,
+            0
+          ],
+          [
+            -73.99118188154156,
+            40.75119795997946,
+            0
+          ],
+          [
+            -73.99084267585476,
+            40.75105404726227,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9919356376734,
+            40.75154628696212,
+            0
+          ],
+          [
+            -73.99130535223688,
+            40.75128221381846,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99130425477934,
+            40.75127888871257,
+            0
+          ],
+          [
+            -73.99082471492834,
+            40.75107606497134,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99049296876338,
+            40.7509076608656,
+            0
+          ],
+          [
+            -73.99002951056637,
+            40.75071280074015,
+            0
+          ],
+          [
+            -73.98933514784459,
+            40.75042254833498,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9904766402821,
+            40.75093012109267,
+            0
+          ],
+          [
+            -73.99001325475736,
+            40.75073529141441,
+            0
+          ],
+          [
+            -73.98931889210625,
+            40.75044503901037,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98922692184537,
+            40.75037404017595,
+            0
+          ],
+          [
+            -73.98812473418982,
+            40.74990962693042,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98921056661588,
+            40.75039648909174,
+            0
+          ],
+          [
+            -73.9881083790741,
+            40.74993207584802,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98765391056196,
+            40.74971063107494,
+            0
+          ],
+          [
+            -73.98479293158121,
+            40.74850383008218,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98717291668748,
+            40.74954026847591,
+            0
+          ],
+          [
+            -73.98477656333641,
+            40.74852627332489,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98763707213857,
+            40.74973479402036,
+            0
+          ],
+          [
+            -73.98717620860435,
+            40.74953943723669,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98444209929113,
+            40.74835661595709,
+            0
+          ],
+          [
+            -73.98376669135884,
+            40.74807316589109,
+            0
+          ],
+          [
+            -73.98347932249526,
+            40.74792479527083,
+            0
+          ],
+          [
+            -73.98317168880651,
+            40.7477940383281,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98442579530665,
+            40.74837908622224,
+            0
+          ],
+          [
+            -73.98374773747611,
+            40.7480943996627,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98374748428435,
+            40.74809189722171,
+            0
+          ],
+          [
+            -73.9834676904455,
+            40.74794641044463,
+            0
+          ],
+          [
+            -73.98315388066426,
+            40.74781505286752,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98286259333435,
+            40.7476661298973,
+            0
+          ],
+          [
+            -73.98165079956769,
+            40.74715654731443,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98284626414525,
+            40.74768858950599,
+            0
+          ],
+          [
+            -73.98163447050322,
+            40.74717900692511,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98118965648888,
+            40.74695984048218,
+            0
+          ],
+          [
+            -73.97994072854424,
+            40.74643335512619,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98117329698461,
+            40.7469822872571,
+            0
+          ],
+          [
+            -73.97992436916898,
+            40.74645580190317,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97963257720887,
+            40.74630760428163,
+            0
+          ],
+          [
+            -73.97944817930369,
+            40.74625196847664,
+            0
+          ],
+          [
+            -73.97835018950327,
+            40.74578824984666,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97962013593639,
+            40.74633146068921,
+            0
+          ],
+          [
+            -73.97943179683713,
+            40.74627440549231,
+            0
+          ],
+          [
+            -73.97833380715052,
+            40.74581068686413,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97799881034544,
+            40.74562275788561,
+            0
+          ],
+          [
+            -73.977505714025,
+            40.7454185379194,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97798267220548,
+            40.74564529702609,
+            0
+          ],
+          [
+            -73.97748957593441,
+            40.74544107706068,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97729546743375,
+            40.74533106481085,
+            0
+          ],
+          [
+            -73.97666132921405,
+            40.74506623300323,
+            0
+          ],
+          [
+            -73.97640922218226,
+            40.74492876118909,
+            0
+          ],
+          [
+            -73.9761417155566,
+            40.74481498279792,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97727922608608,
+            40.74535356100104,
+            0
+          ],
+          [
+            -73.97664166806169,
+            40.74508709102164,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97664088889259,
+            40.74508669197355,
+            0
+          ],
+          [
+            -73.97638855166487,
+            40.74495199755771,
+            0
+          ],
+          [
+            -73.97607696363937,
+            40.74482062073411,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97794408217038,
+            40.73659416297794,
+            0
+          ],
+          [
+            -73.9768338204031,
+            40.73613109311626,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97668280754147,
+            40.73605831077758,
+            0
+          ],
+          [
+            -73.97524541909759,
+            40.73545590678599,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00213403306623,
+            40.75570234418976,
+            0
+          ],
+          [
+            -74.00247374523286,
+            40.75523746233938,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00264456983108,
+            40.75520800242248,
+            0
+          ],
+          [
+            -74.00514769988627,
+            40.75625561104994,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00519760025162,
+            40.75635992234474,
+            0
+          ],
+          [
+            -74.00486300558958,
+            40.75681786342165,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97477717869484,
+            40.73595763951323,
+            0
+          ],
+          [
+            -73.97465388076854,
+            40.73603300208354,
+            0
+          ],
+          [
+            -73.97459320438023,
+            40.73636114394785,
+            0
+          ],
+          [
+            -73.97452216176202,
+            40.73660492522185,
+            0
+          ],
+          [
+            -73.97444050754603,
+            40.73675139984267,
+            0
+          ],
+          [
+            -73.97419818090462,
+            40.73710396580027,
+            0
+          ],
+          [
+            -73.97412970952769,
+            40.73717686799606,
+            0
+          ],
+          [
+            -73.97348889897401,
+            40.73808863966612,
+            0
+          ],
+          [
+            -73.97310545743537,
+            40.73863068949029,
+            0
+          ],
+          [
+            -73.97294457095941,
+            40.73894835021734,
+            0
+          ],
+          [
+            -73.97269178235815,
+            40.73963349035188,
+            0
+          ],
+          [
+            -73.97264472195074,
+            40.73978253244127,
+            0
+          ],
+          [
+            -73.9726942825618,
+            40.73988929554736,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97471833603133,
+            40.73284159348663,
+            0
+          ],
+          [
+            -73.97705064624704,
+            40.73381882920406,
+            0
+          ],
+          [
+            -73.9771251283457,
+            40.73384252440628,
+            0
+          ],
+          [
+            -73.9775642191921,
+            40.73403265999205,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97890983494675,
+            40.73462346580352,
+            0
+          ],
+          [
+            -73.97966483550996,
+            40.73494566842552,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97778911627344,
+            40.73413442399416,
+            0
+          ],
+          [
+            -73.97872205954062,
+            40.73452821385297,
+            0
+          ],
+          [
+            -73.97880654860305,
+            40.73454998452677,
+            0
+          ],
+          [
+            -73.97968331976733,
+            40.73492385477773,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97912914022831,
+            40.73719322428745,
+            0
+          ],
+          [
+            -73.98068873933532,
+            40.73785384371116,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97869028807611,
+            40.73697915725678,
+            0
+          ],
+          [
+            -73.98070515591719,
+            40.73783142196695,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98105350974645,
+            40.7380029696398,
+            0
+          ],
+          [
+            -73.98292244865625,
+            40.73879157495603,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98106987732663,
+            40.73798052716398,
+            0
+          ],
+          [
+            -73.98293881642972,
+            40.73876913248329,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98328686161419,
+            40.73894556054982,
+            0
+          ],
+          [
+            -73.98456084253407,
+            40.73948241028561,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98330321304229,
+            40.73892311116939,
+            0
+          ],
+          [
+            -73.98457719409362,
+            40.73945996090726,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9848690944547,
+            40.73958187317816,
+            0
+          ],
+          [
+            -73.98615728866328,
+            40.74012512830179,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98486816489361,
+            40.73961616200675,
+            0
+          ],
+          [
+            -73.98613939532453,
+            40.74015162443452,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9865036797583,
+            40.74030464614903,
+            0
+          ],
+          [
+            -73.98723186351941,
+            40.74061210733848,
+            0
+          ],
+          [
+            -73.98751664473568,
+            40.74075404420849,
+            0
+          ],
+          [
+            -73.98778279980685,
+            40.7408660446482,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98652005994033,
+            40.74028220876379,
+            0
+          ],
+          [
+            -73.9872503654529,
+            40.74059064525876,
+            0
+          ],
+          [
+            -73.98753297952754,
+            40.74073158764317,
+            0
+          ],
+          [
+            -73.98779913462612,
+            40.74084358808332,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98810405194978,
+            40.74101287724304,
+            0
+          ],
+          [
+            -73.9889502828438,
+            40.74136987949979,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98812041846006,
+            40.74099043401632,
+            0
+          ],
+          [
+            -73.9889666494416,
+            40.74134743627445,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98921867250667,
+            40.74147704813423,
+            0
+          ],
+          [
+            -73.98938663270407,
+            40.74154391713073,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98923432058808,
+            40.74145431036446,
+            0
+          ],
+          [
+            -73.98944709145664,
+            40.74153641147904,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98970614291878,
+            40.74167739733895,
+            0
+          ],
+          [
+            -73.99003378924841,
+            40.74181429709429,
+            0
+          ],
+          [
+            -73.9902843546158,
+            40.74189399114872,
+            0
+          ],
+          [
+            -73.99132990270544,
+            40.74233599887839,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98972240505954,
+            40.74165491019963,
+            0
+          ],
+          [
+            -73.99004683192234,
+            40.74179062747666,
+            0
+          ],
+          [
+            -73.9903007475634,
+            40.74187155899896,
+            0
+          ],
+          [
+            -73.99134629576156,
+            40.74231356673037,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9914623839427,
+            40.7423913135859,
+            0
+          ],
+          [
+            -73.99225387802541,
+            40.74272161627599,
+            0
+          ],
+          [
+            -73.99241407026139,
+            40.74279810780757,
+            0
+          ],
+          [
+            -73.9925797843923,
+            40.74286419531875,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99146124528255,
+            40.74238927993443,
+            0
+          ],
+          [
+            -73.99225942890166,
+            40.74272127187157,
+            0
+          ],
+          [
+            -73.99241605787059,
+            40.74279621693414,
+            0
+          ],
+          [
+            -73.99257752694274,
+            40.74286237780813,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99345317701248,
+            40.74323450901325,
+            0
+          ],
+          [
+            -73.99543262682039,
+            40.744062374001,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9932591781853,
+            40.74314999418647,
+            0
+          ],
+          [
+            -73.99344974316234,
+            40.74323190824323,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99295670931737,
+            40.74300361059009,
+            0
+          ],
+          [
+            -73.99323135357169,
+            40.74311915905273,
+            0
+          ],
+          [
+            -73.99343058378385,
+            40.74319002836421,
+            0
+          ],
+          [
+            -73.99544897079933,
+            40.74403992097501,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9957728687801,
+            40.74421789705406,
+            0
+          ],
+          [
+            -73.99826045867424,
+            40.74526770251217,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99578924094904,
+            40.74419545589594,
+            0
+          ],
+          [
+            -73.99827683110063,
+            40.74524526135814,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99864688763195,
+            40.74540511299694,
+            0
+          ],
+          [
+            -74.00116499284157,
+            40.74646838911742,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00147898925208,
+            40.74660138550243,
+            0
+          ],
+          [
+            -74.00394913947146,
+            40.7476403376612,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00431691895825,
+            40.74779527568477,
+            0
+          ],
+          [
+            -74.00679273589515,
+            40.74883953892103,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00688388222038,
+            40.74899108034656,
+            0
+          ],
+          [
+            -74.0065754297828,
+            40.74940275693252,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00670417909201,
+            40.74964094592997,
+            0
+          ],
+          [
+            -74.00779750276116,
+            40.75009861490258,
+            0
+          ],
+          [
+            -74.0081928947138,
+            40.75026272898334,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00851283950765,
+            40.75000155430664,
+            0
+          ],
+          [
+            -74.00850321301976,
+            40.74993736545415,
+            0
+          ],
+          [
+            -74.00849357232391,
+            40.74988038299429,
+            0
+          ],
+          [
+            -74.00847345079028,
+            40.74980311195076,
+            0
+          ],
+          [
+            -74.00843288903104,
+            40.74969429311999,
+            0
+          ],
+          [
+            -74.00836503933746,
+            40.749537398464,
+            0
+          ],
+          [
+            -74.008344352521,
+            40.7494994229994,
+            0
+          ],
+          [
+            -74.00832211972622,
+            40.74945954950467,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00826195419471,
+            40.74920561257185,
+            0
+          ],
+          [
+            -74.00820358236105,
+            40.7491000563956,
+            0
+          ],
+          [
+            -74.00814942613101,
+            40.74900801871979,
+            0
+          ],
+          [
+            -74.00808832074976,
+            40.74890142151617,
+            0
+          ],
+          [
+            -74.00801402749322,
+            40.74870554633889,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00765819208502,
+            40.74858338499889,
+            0
+          ],
+          [
+            -74.00770285811771,
+            40.74874937228552,
+            0
+          ],
+          [
+            -74.0077734714439,
+            40.74894646342569,
+            0
+          ],
+          [
+            -74.00784942968272,
+            40.74910362808079,
+            0
+          ],
+          [
+            -74.00793364664929,
+            40.74926731756378,
+            0
+          ],
+          [
+            -74.008034819299,
+            40.74944795191529,
+            0
+          ],
+          [
+            -74.0081180987353,
+            40.74958350477968,
+            0
+          ],
+          [
+            -74.00818407420765,
+            40.74971612170748,
+            0
+          ],
+          [
+            -74.0082329841142,
+            40.74984181135041,
+            0
+          ],
+          [
+            -74.00827625997098,
+            40.75001417062997,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00810863654092,
+            40.75015820969696,
+            0
+          ],
+          [
+            -74.00677824294151,
+            40.74960018666057,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00667918494995,
+            40.74945468228894,
+            0
+          ],
+          [
+            -74.00696646331058,
+            40.74906344981017,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0068752336128,
+            40.74879073444987,
+            0
+          ],
+          [
+            -74.00438697781158,
+            40.74774741083382,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00356241950306,
+            40.74740542171757,
+            0
+          ],
+          [
+            -74.0015516367593,
+            40.74655859812811,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0040264988492,
+            40.74759014250686,
+            0
+          ],
+          [
+            -74.0015507790792,
+            40.74655468785136,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00119407886187,
+            40.74640553904909,
+            0
+          ],
+          [
+            -73.99871590564538,
+            40.7453632860223,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00117774861826,
+            40.74642799808955,
+            0
+          ],
+          [
+            -73.9986995756567,
+            40.74538574506683,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99835194344806,
+            40.74520915388374,
+            0
+          ],
+          [
+            -73.99586738254588,
+            40.7441608462218,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9983355734602,
+            40.74523159606316,
+            0
+          ],
+          [
+            -73.99585101281505,
+            40.74418328840531,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99551917670163,
+            40.74400176451736,
+            0
+          ],
+          [
+            -73.99347491891689,
+            40.74313386185335,
+            0
+          ],
+          [
+            -73.99328188256071,
+            40.74305543399736,
+            0
+          ],
+          [
+            -73.99303202527256,
+            40.74294811084147,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99551906496923,
+            40.7440033061381,
+            0
+          ],
+          [
+            -73.9934843197922,
+            40.74313915787463,
+            0
+          ],
+          [
+            -73.99329908682637,
+            40.74306368659301,
+            0
+          ],
+          [
+            -73.99303366219492,
+            40.74295223578221,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98948690460556,
+            40.74145634210451,
+            0
+          ],
+          [
+            -73.98930711170384,
+            40.74138486505517,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98947127417588,
+            40.74147908689699,
+            0
+          ],
+          [
+            -73.9892914812909,
+            40.74140760984795,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99267716907114,
+            40.74280607546864,
+            0
+          ],
+          [
+            -73.99156313049384,
+            40.74233540486689,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99143342006934,
+            40.74228216068333,
+            0
+          ],
+          [
+            -73.98981297997359,
+            40.74159711451331,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99266078347343,
+            40.74282851081791,
+            0
+          ],
+          [
+            -73.99154674251513,
+            40.74235783916524,
+            0
+          ],
+          [
+            -73.98979700553062,
+            40.74162138333763,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98905983721383,
+            40.74128847576301,
+            0
+          ],
+          [
+            -73.98813647194952,
+            40.74089657144897,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98904339487261,
+            40.74131088693163,
+            0
+          ],
+          [
+            -73.98812002970479,
+            40.74091898261912,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9878888529516,
+            40.74079411460532,
+            0
+          ],
+          [
+            -73.98659813955686,
+            40.74024734589253,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9878724348586,
+            40.74081653600611,
+            0
+          ],
+          [
+            -73.98658172159828,
+            40.74026976729544,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98623976797843,
+            40.7400912420138,
+            0
+          ],
+          [
+            -73.98493543200831,
+            40.73954173917652,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98622341919304,
+            40.74011369262366,
+            0
+          ],
+          [
+            -73.98491908335745,
+            40.7395641897885,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.984653175371,
+            40.73942569508149,
+            0
+          ],
+          [
+            -73.98392757472243,
+            40.73911845751292,
+            0
+          ],
+          [
+            -73.98366577571313,
+            40.7389820789232,
+            0
+          ],
+          [
+            -73.98338921878374,
+            40.73886432558798,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98463675813589,
+            40.73944811670849,
+            0
+          ],
+          [
+            -73.98390849615727,
+            40.73913962530147,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98391270079489,
+            40.73914239483803,
+            0
+          ],
+          [
+            -73.98365509951259,
+            40.73900546801251,
+            0
+          ],
+          [
+            -73.98336935658837,
+            40.73889209562113,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98302489594023,
+            40.73871376170652,
+            0
+          ],
+          [
+            -73.98263086656202,
+            40.73854613329728,
+            0
+          ],
+          [
+            -73.98232685331408,
+            40.73844269831664,
+            0
+          ],
+          [
+            -73.9818312272614,
+            40.73823301593265,
+            0
+          ],
+          [
+            -73.98155253576057,
+            40.7380904792125,
+            0
+          ],
+          [
+            -73.9811488071989,
+            40.73792329499037,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "BusLane",
+        "styleUrl": "#BusLane",
+        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98300841626053,
+            40.73873615674345,
+            0
+          ],
+          [
+            -73.98261707712275,
+            40.73856955655971,
+            0
+          ],
+          [
+            -73.98231044596753,
+            40.73846512403248,
+            0
+          ],
+          [
+            -73.98181238708722,
+            40.73825430676872,
+            0
+          ],
+          [
+            -73.98153640259841,
+            40.73811301969013,
+            0
+          ],
+          [
+            -73.98113267407713,
+            40.73794583546865,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9780025891074,
+            40.73650272577338,
+            0
+          ],
+          [
+            -73.97529149790951,
+            40.73536498023878,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97511030274687,
+            40.73523447887966,
+            0
+          ],
+          [
+            -73.97455131856671,
+            40.73301599431914,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "DoubleParked",
+        "styleUrl": "#DoubleParked",
+        "stroke-opacity": 1,
+        "stroke": "#0000ff",
+        "stroke-width": 5
+      }
+    }
+  ]
+}

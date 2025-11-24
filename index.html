@@ -130,6 +130,8 @@
     const grid = document.getElementById("grid");
     const maps = [];
     let isSyncing = false;
+    let pointsData = null;
+    let annotationsData = null;
 
     function createPanel(style, index) {
       const panel = document.createElement("div");
@@ -163,19 +165,91 @@
       isSyncing = false;
     }
 
+    async function loadData() {
+      const [pointsResp, annotationsResp] = await Promise.all([
+        fetch("points.geojson"),
+        fetch("annotations.geojson"),
+      ]);
+      pointsData = await pointsResp.json();
+      annotationsData = await annotationsResp.json();
+    }
+
+    function findLabelLayerId(map) {
+      const layers = map.getStyle()?.layers || [];
+      const firstTextSymbol = layers.find(
+        (l) => l.type === "symbol" && l.layout && l.layout["text-field"]
+      );
+      return firstTextSymbol?.id || layers[0]?.id;
+    }
+
+    function addOverlays(map, idx) {
+      if (!pointsData || !annotationsData) return;
+
+      const ptsSourceId = `points-${idx}`;
+      const ptsLayerId = `points-layer-${idx}`;
+      const annSourceId = `annotations-${idx}`;
+      const annLayerId = `annotations-layer-${idx}`;
+      const labelLayerId = findLabelLayerId(map);
+
+      if (!map.getSource(annSourceId)) {
+        map.addSource(annSourceId, { type: "geojson", data: annotationsData });
+        map.addLayer(
+          {
+            id: annLayerId,
+            type: "line",
+            source: annSourceId,
+            layout: {
+              "line-cap": "round",
+              "line-join": "round",
+            },
+            paint: {
+              "line-color": ["coalesce", ["get", "stroke"], "#ffffff"],
+              "line-width": ["coalesce", ["get", "stroke-width"], 2],
+              "line-opacity": ["coalesce", ["get", "stroke-opacity"], 1],
+            },
+          },
+          labelLayerId
+        );
+      }
+
+      if (!map.getSource(ptsSourceId)) {
+        map.addSource(ptsSourceId, { type: "geojson", data: pointsData });
+        map.addLayer({
+          id: ptsLayerId,
+          type: "circle",
+          source: ptsSourceId,
+          paint: {
+            "circle-radius": 7,
+            "circle-stroke-color": "#000",
+            "circle-stroke-width": 1,
+            "circle-color": [
+              "match",
+              ["get", "infraction_type"],
+              "Bus Lane",
+              "#F9CB8B",
+              "Double Parked",
+              "#6B818C",
+              "#ffffff",
+            ],
+          },
+        });
+      }
+    }
+
     styles.forEach((style, idx) => createPanel(style, idx));
 
     styles.forEach((style, idx) => {
       const map = new mapboxgl.Map({
         container: `map-${idx}`,
         style: style.url,
-        center: [-74, 40.74],
+        center: [-73.9881, 40.7428],
         zoom: 16,
         cooperativeGestures: true,
       });
 
       map.on("load", () => {
         if (idx === 0) syncFrom(map);
+        addOverlays(map, idx);
       });
 
       map.on("error", (e) => {
@@ -184,6 +258,13 @@
 
       map.on("move", () => syncFrom(map));
       maps.push(map);
+    });
+
+    loadData().then(() => {
+      maps.forEach((m, idx) => {
+        if (m.loaded()) addOverlays(m, idx);
+        else m.on("load", () => addOverlays(m, idx));
+      });
     });
   </script>
 </body>

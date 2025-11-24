@@ -1,0 +1,4217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980591,
+          40.746756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976053,
+          40.74458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Double Parked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983012,
+          40.74169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975393,
+          40.752347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975822,
+          40.751756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975863,
+          40.751701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977054,
+          40.745257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977129,
+          40.745288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977591,
+          40.745511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980442,
+          40.738535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983892,
+          40.739195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977014,
+          40.74528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976533,
+          40.745086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977013,
+          40.745283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980667,
+          40.733903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976073,
+          40.748485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982783,
+          40.738682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994173,
+          40.743476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976148,
+          40.740146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994733,
+          40.743756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976153,
+          40.744529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97886,
+          40.740758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994961,
+          40.743804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975838,
+          40.751702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97786,
+          40.742106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98262,
+          40.738583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977814,
+          40.742179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977807,
+          40.742159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977877,
+          40.742058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977575,
+          40.742308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975387,
+          40.752432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979362,
+          40.746257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97259,
+          40.743417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97535,
+          40.749517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975315,
+          40.749581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977917,
+          40.742039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974483,
+          40.742427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975224,
+          40.752533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97525,
+          40.752494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975283,
+          40.752446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975326,
+          40.752383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975252,
+          40.752484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975281,
+          40.752442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975314,
+          40.752396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975255,
+          40.75254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975273,
+          40.752512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975314,
+          40.752454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975355,
+          40.752392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975817,
+          40.751808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972656,
+          40.74927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971828,
+          40.750384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980257,
+          40.746704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975336,
+          40.752355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975354,
+          40.752328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975528,
+          40.752074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988278,
+          40.750004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999116,
+          40.738274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9806,
+          40.746759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975231,
+          40.75242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97527,
+          40.752367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975696,
+          40.751783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975725,
+          40.751742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971025,
+          40.751572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971867,
+          40.750394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971893,
+          40.750359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975467,
+          40.752419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97592,
+          40.751834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975957,
+          40.751785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977871,
+          40.742113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971896,
+          40.750351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980651,
+          40.738257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999108,
+          40.738287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974623,
+          40.744251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975327,
+          40.75249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975355,
+          40.752451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975831,
+          40.751811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975875,
+          40.751748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999111,
+          40.738269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971904,
+          40.750339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971886,
+          40.750375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973016,
+          40.752807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975153,
+          40.752572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975201,
+          40.752502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975229,
+          40.752463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975264,
+          40.752412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971868,
+          40.750374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979246,
+          40.746197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97519,
+          40.752589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975224,
+          40.752541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975253,
+          40.752488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975286,
+          40.752435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975317,
+          40.752391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975733,
+          40.75181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975772,
+          40.751754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971865,
+          40.750328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971862,
+          40.750451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972101,
+          40.750113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972721,
+          40.749315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974714,
+          40.742118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972646,
+          40.749261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991789,
+          40.751476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976101,
+          40.744537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975346,
+          40.75257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975384,
+          40.752517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975418,
+          40.75247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975804,
+          40.751942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975944,
+          40.751742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975901,
+          40.751939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97563,
+          40.752026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975667,
+          40.751968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975697,
+          40.751923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975733,
+          40.751871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975832,
+          40.751729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974194,
+          40.742868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979803,
+          40.73742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999152,
+          40.738282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988286,
+          40.750019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974656,
+          40.742205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971092,
+          40.751375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971374,
+          40.75099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979376,
+          40.735711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97961,
+          40.739717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975199,
+          40.752646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975298,
+          40.752515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97534,
+          40.752459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975686,
+          40.751966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970943,
+          40.751637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994201,
+          40.743462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975343,
+          40.752385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988275,
+          40.750006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978961,
+          40.740618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979253,
+          40.740205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978958,
+          40.736271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975431,
+          40.752407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975907,
+          40.751756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99644,
+          40.744428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996021,
+          40.744249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974676,
+          40.742153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97873,
+          40.736588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990594,
+          40.741968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976113,
+          40.744552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978908,
+          40.740755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979641,
+          40.739672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975325,
+          40.752453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975357,
+          40.752409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975732,
+          40.751878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97521,
+          40.752527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975779,
+          40.751728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97881,
+          40.740826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972981,
+          40.752816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97918,
+          40.737203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974146,
+          40.742857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974814,
+          40.744292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988344,
+          40.750039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987597,
+          40.74071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989977,
+          40.741735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990678,
+          40.742011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990965,
+          40.74213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975722,
+          40.748982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980535,
+          40.738358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978912,
+          40.740696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978951,
+          40.740635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975239,
+          40.752487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975282,
+          40.752424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975556,
+          40.752009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988438,
+          40.749998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97886,
+          40.740734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975285,
+          40.752367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976164,
+          40.744536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975536,
+          40.749192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979872,
+          40.739364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972776,
+          40.753007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980665,
+          40.738269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976966,
+          40.743283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975586,
+          40.752089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975755,
+          40.751863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975787,
+          40.751816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.002671,
+          40.747069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996872,
+          40.744629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996815,
+          40.744604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990454,
+          40.741913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97697,
+          40.743282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977052,
+          40.74316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975497,
+          40.749186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988276,
+          40.750017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97536,
+          40.752432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975791,
+          40.751839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975828,
+          40.751787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975359,
+          40.752341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979161,
+          40.746165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977983,
+          40.741941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978033,
+          40.741871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973786,
+          40.743383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979006,
+          40.740559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978878,
+          40.740736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973743,
+          40.743423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991023,
+          40.742147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980625,
+          40.738355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977112,
+          40.74313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977161,
+          40.74306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984968,
+          40.74855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991613,
+          40.751419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975285,
+          40.752423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975329,
+          40.752366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975708,
+          40.751819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978759,
+          40.745936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975209,
+          40.752449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975303,
+          40.752361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999295,
+          40.745638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975162,
+          40.7526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97519,
+          40.752552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978005,
+          40.741882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975789,
+          40.751756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975839,
+          40.751697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974652,
+          40.742179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977046,
+          40.743182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980614,
+          40.738157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977048,
+          40.743183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974911,
+          40.753061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975264,
+          40.752577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975299,
+          40.75253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981835,
+          40.738319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974711,
+          40.744289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990753,
+          40.742024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97559,
+          40.749209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980269,
+          40.73764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975305,
+          40.752485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97534,
+          40.752441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975593,
+          40.752122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974017,
+          40.744082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990961,
+          40.742131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975283,
+          40.752595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975407,
+          40.752344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994186,
+          40.743482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9738,
+          40.743406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973754,
+          40.743462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975168,
+          40.752756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975176,
+          40.752735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975214,
+          40.752627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975647,
+          40.751981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975704,
+          40.751902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.978792,
+          40.740863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97558,
+          40.749201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975542,
+          40.749254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988836,
+          40.750163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975566,
+          40.752035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975612,
+          40.751982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988735,
+          40.75021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983581,
+          40.739119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971361,
+          40.751028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971464,
+          40.750886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97196,
+          40.750215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975124,
+          40.752559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975165,
+          40.75249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975538,
+          40.749218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.973811,
+          40.751808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972455,
+          40.753487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98874,
+          40.750223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983861,
+          40.739202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975175,
+          40.74148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9747,
+          40.74213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995038,
+          40.743861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979357,
+          40.740063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990332,
+          40.741905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990611,
+          40.742019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99067,
+          40.742044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982131,
+          40.738491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989768,
+          40.75061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98882,
+          40.750213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988418,
+          40.750042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979768,
+          40.739458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979805,
+          40.739404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982037,
+          40.73639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986576,
+          40.740294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975535,
+          40.749246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975508,
+          40.749285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971322,
+          40.751033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.999645,
+          40.745831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997592,
+          40.744954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988572,
+          40.750061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980095,
+          40.738969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997332,
+          40.744811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997027,
+          40.744686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976101,
+          40.748374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974226,
+          40.742748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990889,
+          40.742106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983625,
+          40.739106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98348,
+          40.739052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977136,
+          40.743092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989766,
+          40.7344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975774,
+          40.751688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974421,
+          40.744129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99687,
+          40.744623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996022,
+          40.744264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975282,
+          40.752504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975323,
+          40.752445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975732,
+          40.751863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975773,
+          40.751805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975339,
+          40.752404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975339,
+          40.752382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975707,
+          40.75188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97575,
+          40.751819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975774,
+          40.751785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975718,
+          40.75186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975241,
+          40.752473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982227,
+          40.738481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975727,
+          40.751823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996871,
+          40.744603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970899,
+          40.751711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971152,
+          40.751362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975138,
+          40.752576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975152,
+          40.752701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975185,
+          40.752651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97579,
+          40.751823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975821,
+          40.751779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975855,
+          40.751729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988306,
+          40.750026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975379,
+          40.752367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976043,
+          40.748554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.001657,
+          40.746637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990232,
+          40.734572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995182,
+          40.743934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990213,
+          40.734572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "infraction_type": "Bus Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979306,
+          40.735767
+        ]
+      }
+    }
+  ]
+}
